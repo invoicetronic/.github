@@ -1,4 +1,4 @@
-# Italian eInvoice API
+# Invoicetronic API
 
 The Invoicetronic API is a RESTful service ensuring smooth and compliant invoice transactions through the Servizio di Interscambio, commonly referenced as SDI or FatturaPA.
 
